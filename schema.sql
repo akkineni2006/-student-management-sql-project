@@ -1,0 +1,1 @@
+-- See previous advanced schema. Create tables, insert sample data, view, procedure and index.

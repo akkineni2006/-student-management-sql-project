@@ -1,0 +1,8 @@
+ER DIAGRAM (Text)
+
+Departments (1) -------- (*) Students
+Departments (1) -------- (*) Faculty
+Faculty (1) ------------ (*) Courses
+Students (*) ----------- (*) Courses
+            via Enrollments
+Enrollments (1) -------- (1) Attendance

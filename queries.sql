@@ -1,0 +1,1 @@
+-- 30 SQL queries covering joins, group by, subqueries, views and procedures.
